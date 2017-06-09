@@ -1,0 +1,4 @@
+﻿  test.cpp
+c:\users\a6651\documents\visual studio 2017\projects\fibheap\fibheap\fibheap.h(131): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  FibHeap.vcxproj -> C:\Users\a6651\Documents\Visual Studio 2017\Projects\FibHeap\Debug\FibHeap.exe
+  FibHeap.vcxproj -> C:\Users\a6651\Documents\Visual Studio 2017\Projects\FibHeap\Debug\FibHeap.pdb (Partial PDB)
